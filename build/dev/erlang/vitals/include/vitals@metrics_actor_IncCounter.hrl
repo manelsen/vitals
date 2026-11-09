@@ -1,0 +1,1 @@
+-record(inc_counter, {name :: binary(), labels :: list({binary(), binary()})}).

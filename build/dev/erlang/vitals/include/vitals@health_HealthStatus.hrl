@@ -1,0 +1,1 @@
+-record(health_status, {status :: binary(), uptime_seconds :: integer()}).
